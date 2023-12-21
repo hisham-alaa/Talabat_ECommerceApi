@@ -941,11 +941,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
+      "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
       "projectName": "Talabat.Core",
-      "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
+      "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
       "packagesPath": "C:\\Users\\Hisham_Alaa\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\obj\\",
+      "outputPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hisham_Alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

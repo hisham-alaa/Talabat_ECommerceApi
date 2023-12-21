@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uA5kFZZcbFuslr/UMwIZJOrDOFcgEX0rZixcm6uJvcwsiix20rlT72qmPRxZBQer/qSvj08nqHN+zGcXRGmuOg==",
+  "dgSpecHash": "xLavKl2VtP901HxVAHq8ZEi1+uKQW7IK7qiKYNSknIt/auThADvyR4kpdE7K+NtWw2MNIARztBggMvy7j1/dqg==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\Talabat.APIs.csproj",
+  "projectFilePath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\Talabat.APIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hisham_Alaa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Hisham_Alaa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

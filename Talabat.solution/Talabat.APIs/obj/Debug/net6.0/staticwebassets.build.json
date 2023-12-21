@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6NKxCdFzwogFDK4fxcFmkdSjg3O1qgwDzKcigz1PpaE=",
+  "Hash": "XCnBpY7tytndZ4YDgJFn+xhVppS+DwdSO0Lrswt3coQ=",
   "Source": "Talabat.APIs",
   "BasePath": "_content/Talabat.APIs",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talabat.APIs\\wwwroot",
       "Source": "Talabat.APIs",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/boot-ang1.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/boot-ang2.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/boot-core1.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/boot-core2.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/boot-redis1.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\Double Caramel Frappuccino.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\Double Caramel Frappuccino.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/Double Caramel Frappuccino.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\Double Caramel Frappuccino.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/glove-code1.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/glove-code2.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/glove-react1.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/glove-react2.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/hat-core1.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/hat-react1.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/hat-react2.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/sb-ang1.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/sb-core1.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/sb-core2.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/sb-react1.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ts1.jpg",
+      "Identity": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ts1.jpg",
       "SourceId": "Talabat.APIs",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
+      "ContentRoot": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\",
       "BasePath": "_content/Talabat.APIs",
       "RelativePath": "images/products/sb-ts1.jpg",
       "AssetKind": "All",

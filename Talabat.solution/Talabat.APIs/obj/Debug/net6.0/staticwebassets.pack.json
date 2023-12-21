@@ -1,79 +1,79 @@
 {
   "Files": [
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\Double Caramel Frappuccino.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\Double Caramel Frappuccino.png",
       "PackagePath": "staticwebassets\\images\\products\\Double Caramel Frappuccino.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang2.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-core2.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-redis1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-redis1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code1.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code2.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react1.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-react2.png",
       "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-core1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-core1.png",
       "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react1.png",
       "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\hat-react2.png",
       "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang2.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core2.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-core2.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-react1.png",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-react1.png",
       "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
     },
     {
-      "Id": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ts1.jpg",
+      "Id": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ts1.jpg",
       "PackagePath": "staticwebassets\\images\\products\\sb-ts1.jpg"
     },
     {

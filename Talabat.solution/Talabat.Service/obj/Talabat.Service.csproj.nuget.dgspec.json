@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj": {}
+    "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj": {
+    "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
         "projectName": "Talabat.Core",
-        "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj",
         "packagesPath": "C:\\Users\\Hisham_Alaa\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\obj\\",
+        "outputPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hisham_Alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj": {
+    "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj",
+        "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj",
         "projectName": "Talabat.Service",
-        "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj",
+        "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj",
         "packagesPath": "C:\\Users\\Hisham_Alaa\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\obj\\",
+        "outputPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hisham_Alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj": {
-                "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj"
+              "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Core\\Talabat.Core.csproj"
               }
             }
           }

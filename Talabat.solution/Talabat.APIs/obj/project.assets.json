@@ -3079,11 +3079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\Talabat.APIs.csproj",
+      "projectUniqueName": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\Talabat.APIs.csproj",
       "projectName": "Talabat.APIs",
-      "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\Talabat.APIs.csproj",
+      "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\Talabat.APIs.csproj",
       "packagesPath": "C:\\Users\\Hisham_Alaa\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.APIs\\obj\\",
+      "outputPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.APIs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hisham_Alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3100,11 +3100,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Repository\\Talabat.Repository.csproj": {
-              "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Repository\\Talabat.Repository.csproj"
+            "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+              "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Repository\\Talabat.Repository.csproj"
             },
-            "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj": {
-              "projectPath": "F:\\Projects\\Asp.Net\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj"
+            "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj": {
+              "projectPath": "F:\\Projects\\Asp.Net\\Talabat\\Talabat_ECommerceApi\\Talabat.solution\\Talabat.Service\\Talabat.Service.csproj"
             }
           }
         }
